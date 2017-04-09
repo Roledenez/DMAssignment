@@ -1,518 +1,489 @@
-Adam Green 1
-Adrian Shergold 1
-Agnieszka Holland 1
-Agnieszka Holland 2
-A.J. Edwards 1
-Alan Parker 1
-Alan Rudolph 1
-Alexander Korda 1
-Alexandre Moors 1
-Alex Cox 1
-Alex Cox 2
-Alfred E. Green 1
-Alfred Hitchcock 2
-Alfred L. Werker 1
-Allen Coulter 1
-Anand Tucker 1
-Anand Tucker 2
-Anatole Litvak 1
-Andrew Bergman 1
-Andrew Dominik 2
-Andrew V. McLaglen 1
-Andrzej Wajda 1
-Andy Goddard 1
-Angelina Jolie 1
-Anthony Fabian 1
-Anthony Mann 1
-Antoine de Caunes 1
-Anton Corbijn 1
-Archie Mayo 1
-Ariel Vromen 1
-Arnold Laven 1
-Arthur Hiller 1
-Arthur Penn 1
-Arthur Penn 2
-Art Linson 1
-Atom Egoyan 3
-Ava DuVernay 1
-A.W. Vidmer 1
-Barbet Schroeder 2
-Barry Levinson 1
-Ben Lewin 1
-Bennett Miller 1
-Bernardo Bertolucci 1
-Bernard Rose 1
-Betty Thomas 1
-Bill Condon 1
-Bill Douglas 1
-Bille August 1
-Bille August 2
-Bill Pohlad 1
-Billy Ray 1
-Billy Wilder 1
-Blair Hayes 1
-Boaz Yakin 1
-Bob Balaban 2
-Bob Fosse 1
-Brenda Chapman 2
-Brian Gibson 1
-Brian Gilbert 1
-Brian Gilbert 2
-Brian Helgeland 1
-Bronwen Hughes 1
-Bruce Beresford 1
-Burt Balaban 1
-Buzz Kulik 1
-Byron Haskin 1
-Carl Schultz 2
-Catherine Hardwicke 2
-Catherine Hardwicke 3
-Caveh Zahedi 1
-Cecil B. DeMille 1
-Charles BinamÌÎÌãÌ´å© 1
-Charles Frend 1
-Charles Jarrott 1
-Charles S. Dutton 1
-Charles Vidor 1
-Charles Walters 1
-Chris Kentis 2
-Chris Noonan 1
-Christian Duguay 1
-Christine Jeffs 2
-Christopher Hampton 2
-Christopher Roth 1
-Christopher Spencer 1
-Chuck Parello 1
-Clarence Brown 1
-Clint Eastwood 1
-Clint Eastwood 2
-Clint Eastwood 4
-Craig Gillespie 1
-Curtis Bernhardt 1
-Curtis Bernhardt 3
-Daniel Mann 1
-Daniel Roby 1
-Dan Ireland 2
-Danny Boyle 1
-Danny DeVito 1
-Darnell Martin 3
-Darrell Roodt 1
-David Anspaugh 1
-David Cronenberg 3
-David Fincher 1
-David Frankel 1
-David Green 1
-David Hugh Jones 2
-David Jacobson 1
-David Lean 1
-David Lynch 1
-David Miller 1
-David O. Russell 1
-David Schultz 1
-David Veloz 1
-David Winkler 1
-Davis Guggenheim 1
-Delmer Daves 1
-Denzel Washington 1
-Derek Jarman 1
-Derek W. Hayes 1
-Dick Powell 1
-Diego Luna 1
-director number_of_subjects
-D.M.W. Greer 1
-Dominic Murphy 1
-Don Murray 1
-Don Sharp 1
-Don Siegel 3
-Douglas McGrath 1
-Douglas Sirk 1
-Doug Liman 1
-Dudley Nichols 1
-D.W. Griffith 1
-Earl Bellamy 1
-Ed Harris 1
-Edna Luise Biesold 1
-Edo Bertoglio 1
-Edward James Olmos 1
-Elia Kazan 1
-Ennio De Concini 1
-Ericson Core 1
-Eric Till 1
-Federico Fellini 1
-Fenton Bailey 1
-Floria Sigismondi 2
-Francesco Rosi 1
-Francis Ford Coppola 1
-Franco Zeffirelli 1
-FranÌÎå_ois Girard 1
-Frank C. SchrÌÎå_der 1
-Franklin J. Schaffner 1
-Franklin J. Schaffner 2
-Frank Perry 1
-Fred Durst 1
-Fred Zinnemann 1
-Gabriele Muccino 1
-Gabriel Pascal 2
-Gary Fleder 1
-Gavin Millar 1
-Gavin O'Connor 1
-Gene Nelson 1
-Geoffrey Sax 1
-George Clooney 1
-George Cukor 1
-George Hickenlooper 1
-George Marshall 1
-George Roy Hill 2
-George Sidney 1
-George Stevens 1
-George Tillman Jr. 1
-Gillies MacKinnon 1
-Glenn Ficarra 1
-Gordon Douglas 1
-Graeme Clifford 1
-Gregor Jordan 1
-Gregory Nava 1
-Gus Van Sant 1
-Hal Ashby 1
-Hans-JÌÎ_rgen Syberberg 1
-Harry Bromley Davenport 1
-Harry Thomason 1
-H.C. Potter 2
-Henrique Goldman 1
-Henry Hathaway 1
-Henry King 1
-Henry Koster 1
-Henry Koster 2
-Henry Levin 2
-Henry Levin George Pal 2
-Howard Hawks 1
-Hugh Hudson 1
-Iain Softley 2
-Irving Cummings 1
-Irving Rapper 1
-Irwin Winkler 1
-Jack Cardiff 1
-Jack Conway 1
-Jacques Dorfmann 1
-James Franco 1
-James Gartner 1
-James Ivory 1
-James Kent 1
-James Lapine 2
-James Mangold 1
-James Marsh 1
-Jamil Dehlavi 1
-Jane Anderson 1
-Jane Campion 1
-Jane Campion 2
-Jean-FranÌÎå_ois Richet 1
-Jean-Jacques Annaud 1
-Jean-Marc VallÌÎå©e 1
-Jean-Marc VallÌÎÌãÌ´å©e 1
-Jean-Paul SalomÌÎå© 1
-Jeff Preiss 1
-Jesse Hibbs 1
-Jim McBride 1
-Jim Sheridan 1
-Joe Johnston 1
-Joel Schumacher 1
-Joe Menendez 1
-Joe Wright 2
-John Boorman 1
-John Boulting 1
-John Cromwell 1
-John Duigan 1
-John Farrow 1
-John Ford 1
-John Frankenheimer 1
-John G. Avildsen 1
-John Glen 1
-John Huston 1
-John Krish Peter Sykes 1
-John Krokidas 1
-John Lee Hancock 1
-John Lee Hancock 2
-John Madden 1
-John Maybury 1
-John Milius 1
-John N. Smith 1
-John Palmer 1
-John Ridley 1
-John Schlesinger 1
-John Stockwell 1
-Jon Amiel 1
-Jonathan Hensleigh 1
-Jonathan Kaplan 1
-Jonathan Teplitzky 1
-Jon S. Baird 1
-Jon Stewart 1
-Joseph L. Mankiewicz 1
-Joseph Losey 1
-Joseph Pevney 1
-Joseph Sargent 1
-Joshua Michael Stern 1
-Julian Gilbey 1
-Julian Jarrold 1
-Julian Schnabel 1
-Julie Delpy 1
-Julien Duvivier 1
-Julien Temple 2
-Julie Taymor 1
-Juraj Jakubisko 1
-Justin Chadwick 1
-Justin Chadwick 2
-Karel Reisz 1
-Kasi Lemmons 1
-Ken Hughes 1
-Kenneth Branagh 1
-Kenneth Castillo 1
-Ken Russell 1
-Ken Russell 2
-Kevin Macdonald 1
-Kevin Spacey 1
-Kimberly Peirce 1
-Larry Ferguson 1
-Larry Peerce 1
-Larysa Kondracki 1
-Laurence Olivier 1
-Lawrence Kasdan 1
-Lee Daniels 1
-Leon Ichaso 1
-Leslie H. Martinson 1
-Leslie Howard 1
-Lewis Gilbert 1
-Lewis Seiler 1
-Lisa Barros D'Sa 1
-Lloyd Bacon 1
-Louis Malle 2
-Luc Besson 1
-Luis Valdez 1
-Malcolm Leo 1
-Marc Abraham 1
-Marc Forster 1
-Marcos Zurinaga 1
-Marek Kanievska 1
-Mario Van Peebles 1
-Mark Robson 1
-Marshall Herskovitz 1
-Martin Ritt 1
-Martin Scorsese 1
-Marvin J. Chomsky 1
-Mary Harron 1
-Mary McGuckian 1
-Matthew Bright 1
-Matthew Broderick 1
-Mat Whitecross 1
-Max Nosseck 1
-Mel Gibson 1
-Melville Shavelson 1
-Melvin Frank 1
-Menno Meyjes 2
-Mervyn LeRoy 1
-Mervyn LeRoy 2
-Michael Apted 1
-Michael Campus 1
-Michael Caton-Jones 1
-Michael Cuesta 1
-Michael Curtiz 1
-Michael Curtiz 2
-Michael Hoffman 1
-Michael Mann 1
-Michael O. Sajbel 1
-Michael Schultz 1
-Michael Tollin 2
-Michael Winterbottom 1
-Michael Winterbottom 2
-Mick Davis 1
-Mick Jackson 1
-Mike Barker 2
-Mike Jittlov 1
-Mike Leigh 1
-Mike Leigh 2
-Mike Newell 1
-Mike Nichols 1
-Milos Forman 1
-Milos Forman 2
-Mira Nair 1
-Mitch Davis 1
-Monty Lapica 1
-Morten Tyldum 1
-Moustapha Akkad 1
-Myles Berkowitz 1
-Nathan Frankowski 1
-Neil Jordan 1
-Newt Arnold 1
-Nicholas Hytner 1
-Nicholas Ray 1
-Nicholas Sgarro 1
-Nick Cassavetes 1
-Nick Moran 1
-Nicolas Winding Refn 1
-Niels Mueller 1
-Nikolai MÌÎÌãÌ´_llerschÌÎÌãÌ´å_n 1
-Nora Ephron 2
-Norman Jewison 1
-Norman Taurog 1
-Norman Taurog 2
-Oliver Hirschbiegel 1
-Oliver Stone 1
-Olivier Dahan 1
-Oren Kaplan 1
-Otto Preminger 1
-Pat Murphy 2
-Patty Jenkins 1
-Paul Goldman 1
-Paul Greengrass 1
-Paul Morrison 1
-Paul Schrader 1
-Paul Weiland 1
-Penny Marshall 1
-Peter Berg 1
-Peter Bogdanovich 1
-Peter Brook 1
-Peter Filardi 1
-Peter Glenville 2
-Peter Greenaway 1
-Peter Medak 2
-Peter Webber 1
-Philip Kaufman 1
-Philip Kaufman 3
-Philippe Mora 1
-Philip Saville 1
-Phil Karlson 1
-Phillip Borsos 1
-Phillip Noyce 1
-Phyllida Lloyd 1
-Preston Sturges 1
-Ralph Fiennes 1
-Raoul Ruiz 1
-Raoul Walsh 1
-Ricardo Trogi 1
-Richard Attenborough 1
-Richard Attenborough 2
-Richard Eyre 1
-Richard Fleischer 1
-Richard Fleischer 2
-Richard Glatzer 1
-Richard LaGravenese 1
-Richard Loncraine 1
-Richard Pryor 1
-Richard Raymond 1
-Richard Rich 1
-Richard Thorpe 1
-Richard Thorpe 2
-Richard Whorf 1
-Richard Wilson 1
-Rick Bieber 1
-Ridley Scott 1
-Rob Cohen 1
-Rob Epstein 1
-Robert Altman 2
-Robert Boris 2
-Robert Greenwald 1
-Robert Guenette 1
-Robert Lieberman 1
-Robert Luketic 1
-Robert Montgomery 1
-Robert Mulligan 1
-Robert M. Young 1
-Roberto Faenza 2
-Robert Rossen 1
-Robert Siodmak 1
-Robert Towne 1
-Robert Townsend 1
-Robert Wise 1
-Robert Young 1
-Robert Z. Leonard 1
-Rob Moretti 1
-Rodger Grossman 1
-Roger Christian 1
-Roger Corman 1
-Roger Corman 2
-Roger Donaldson 1
-Roger Michell 2
-Roger Spottiswoode 1
-Roland JoffÌÎå© 1
-Roland JoffÌÎÌãÌ´å© 2
-Roman Polanski 1
-Ron Howard 1
-Ron Howard 2
-Ron Shelton 1
-Ron Underwood 2
-Rouben Mamoulian 1
-Rowdy Herrington 1
-Rowland V. Lee 1
-Roy Del Ruth 1
-Russell Mulcahy 1
-Ryan Coogler 1
-Ryan Perez 1
-Sacha Gervasi 2
-Sam Taylor-Johnson 1
-Sam Wood 1
-Saul Dibb 1
-Scott Kalvert 1
-Scott Walker 2
-Sean McNamara 1
-Sean Penn 1
-Shari Springer Berman 1
-Shekhar Kapur 1
-Sherry Hormann 1
-Sidney Franklin 2
-Sidney J. Furie 1
-Sidney Lumet 1
-Simon Curtis 1
-Sofia Coppola 1
-Spike Lee 1
-Stanley Kubrick 1
-Stephen Frears 1
-Stephen Frears 2
-Stephen Hopkins 1
-Stephen Kay 1
-Stephen Woolley 1
-Steve Carver 1
-Steve James 1
-Steve McQueen 1
-Steven Sawalich 1
-Steven Shainberg 1
-Steven Silver 4
-Steven Soderbergh 1
-Steven Spielberg 1
-Steven Zaillian 1
-Steve Rash 1
-Sydney Pollack 1
-Tate Taylor 1
-Taylor Hackford 1
-Ted Demme 1
-Terence Davies 1
-Terrence Malick 1
-Thad T. Smith 1
-Tim Burton 1
-Tim Metcalfe 1
-Todd Haynes 1
-Tom Gries 1
-Tom Hooper 1
-Tom Kalin 2
-Tommy O'Haver 2
-Tom Shadyac 1
-Toniko Melo 1
-Tony Bill 1
-Tony Goldwyn 1
-Tony Scott 1
-Trevor Nunn 1
-Trevor White 1
-Trey Parker 1
-Valentine Davies 1
-Victor Fleming 1
-Vincente Minnelli 1
-Vincent J. Donehue 1
-Vincent Paronnaud 1
-Walter Hill 1
-Walter Lang 1
-Walter Salles 1
-Warren Beatty 1
-Werner Herzog 1
-William A. Wellman 1
-William Dieterle 1
-William Wyler 1
-W.S. Van Dyke 1
-Xavier Koller 1
+Adam Green,1
+Adrian Shergold,1
+Agnieszka Holland,5
+A.J. Edwards,1
+Alan Parker,2
+Alan Rudolph,1
+Alexander Korda,2
+Alexandre Moors,1
+Alex Cox,5
+Alfred E. Green,3
+Alfred Hitchcock,4
+Alfred L. Werker,1
+Allen Coulter,1
+Anand Tucker,5
+Anatole Litvak,1
+Andrew Bergman,1
+Andrew Dominik,4
+Andrew V. McLaglen,1
+Andrzej Wajda,1
+Andy Goddard,1
+Angelina Jolie,1
+Anthony Fabian,1
+Anthony Mann,2
+Antoine de Caunes,1
+Anton Corbijn,1
+Archie Mayo,1
+Ariel Vromen,1
+Arnold Laven,1
+Arthur Hiller,1
+Arthur Penn,9
+Art Linson,1
+Atom Egoyan,9
+Ava DuVernay,1
+A.W. Vidmer,1
+Barbet Schroeder,4
+Barry Levinson,2
+Ben Lewin,1
+Bennett Miller,3
+Bernardo Bertolucci,1
+Bernard Rose,2
+Betty Thomas,1
+Bill Condon,3
+Bill Douglas,1
+Bille August,5
+Bill Pohlad,1
+Billy Ray,1
+Billy Wilder,1
+Blair Hayes,1
+Boaz Yakin,1
+Bob Balaban,4
+Bob Fosse,2
+Brenda Chapman,4
+Brian Gibson,1
+Brian Gilbert,5
+Brian Helgeland,1
+Bronwen Hughes,1
+Bruce Beresford,1
+Burt Balaban,1
+Buzz Kulik,1
+Byron Haskin,1
+Carl Schultz,4
+Catherine Hardwicke,13
+Caveh Zahedi,1
+Cecil B. DeMille,4
+Charles BinamÌÎÌãÌ´å©,1
+Charles Frend,1
+Charles Jarrott,2
+Charles S. Dutton,1
+Charles Vidor,3
+Charles Walters,1
+Chris Kentis,4
+Chris Noonan,1
+Christian Duguay,1
+Christine Jeffs,4
+Christopher Hampton,4
+Christopher Roth,1
+Christopher Spencer,1
+Chuck Parello,1
+Clarence Brown,1
+Clint Eastwood,23
+Craig Gillespie,1
+Curtis Bernhardt,11
+Daniel Mann,1
+Daniel Roby,1
+Dan Ireland,4
+Danny Boyle,1
+Danny DeVito,1
+Darnell Martin,9
+Darrell Roodt,1
+David Anspaugh,1
+David Cronenberg,9
+David Fincher,1
+David Frankel,1
+David Green,1
+David Hugh Jones,4
+David Jacobson,1
+David Lean,1
+David Lynch,2
+David Miller,1
+David O. Russell,1
+David Schultz,1
+David Veloz,1
+David Winkler,1
+Davis Guggenheim,1
+Delmer Daves,1
+Denzel Washington,2
+Derek Jarman,3
+Derek W. Hayes,1
+Dick Powell,1
+Diego Luna,1
+director,0
+D.M.W. Greer,1
+Dominic Murphy,1
+Don Murray,1
+Don Sharp,1
+Don Siegel,9
+Douglas McGrath,1
+Douglas Sirk,1
+Doug Liman,1
+Dudley Nichols,1
+D.W. Griffith,1
+Earl Bellamy,1
+Ed Harris,1
+Edna Luise Biesold,1
+Edo Bertoglio,1
+Edward James Olmos,1
+Elia Kazan,1
+Ennio De Concini,1
+Ericson Core,1
+Eric Till,2
+Federico Fellini,1
+Fenton Bailey,1
+Floria Sigismondi,4
+Francesco Rosi,1
+Francis Ford Coppola,1
+Franco Zeffirelli,2
+FranÌÎå_ois Girard,1
+Frank C. SchrÌÎå_der,1
+Franklin J. Schaffner,6
+Frank Perry,1
+Fred Durst,1
+Fred Zinnemann,1
+Gabriele Muccino,1
+Gabriel Pascal,4
+Gary Fleder,1
+Gavin Millar,1
+Gavin O'Connor,1
+Gene Nelson,1
+Geoffrey Sax,1
+George Clooney,1
+George Cukor,1
+George Hickenlooper,2
+George Marshall,2
+George Roy Hill,4
+George Sidney,3
+George Stevens,3
+George Tillman Jr.,2
+Gillies MacKinnon,1
+Glenn Ficarra,1
+Gordon Douglas,2
+Graeme Clifford,1
+Gregor Jordan,1
+Gregory Nava,2
+Gus Van Sant,2
+Hal Ashby,1
+Hans-JÌÎ_rgen Syberberg,1
+Harry Bromley Davenport,1
+Harry Thomason,1
+H.C. Potter,4
+Henrique Goldman,1
+Henry Hathaway,2
+Henry King,4
+Henry Koster,7
+Henry Levin,2
+Henry Levin George Pal,2
+Howard Hawks,1
+Hugh Hudson,1
+Iain Softley,4
+Irving Cummings,1
+Irving Rapper,3
+Irwin Winkler,1
+Jack Cardiff,1
+Jack Conway,1
+Jacques Dorfmann,1
+James Franco,1
+James Gartner,1
+James Ivory,2
+James Kent,1
+James Lapine,4
+James Mangold,2
+James Marsh,1
+Jamil Dehlavi,1
+Jane Anderson,1
+Jane Campion,5
+Jean-FranÌÎå_ois Richet,2
+Jean-Jacques Annaud,2
+Jean-Marc VallÌÎå©e,2
+Jean-Marc VallÌÎÌãÌ´å©e,1
+Jean-Paul SalomÌÎå©,1
+Jeff Preiss,1
+Jesse Hibbs,1
+Jim McBride,1
+Jim Sheridan,3
+Joe Johnston,1
+Joel Schumacher,1
+Joe Menendez,1
+Joe Wright,4
+John Boorman,1
+John Boulting,1
+John Cromwell,2
+John Duigan,1
+John Farrow,1
+John Ford,5
+John Frankenheimer,1
+John G. Avildsen,1
+John Glen,1
+John Huston,2
+John Krish Peter Sykes,1
+John Krokidas,1
+John Lee Hancock,5
+John Madden,1
+John Maybury,2
+John Milius,1
+John N. Smith,1
+John Palmer,1
+John Ridley,1
+John Schlesinger,1
+John Stockwell,1
+Jon Amiel,1
+Jonathan Hensleigh,1
+Jonathan Kaplan,1
+Jonathan Teplitzky,1
+Jon S. Baird,1
+Jon Stewart,1
+Joseph L. Mankiewicz,1
+Joseph Losey,1
+Joseph Pevney,1
+Joseph Sargent,1
+Joshua Michael Stern,1
+Julian Gilbey,1
+Julian Jarrold,1
+Julian Schnabel,3
+Julie Delpy,1
+Julien Duvivier,1
+Julien Temple,4
+Julie Taymor,1
+Juraj Jakubisko,1
+Justin Chadwick,6
+Karel Reisz,2
+Kasi Lemmons,1
+Ken Hughes,2
+Kenneth Branagh,1
+Kenneth Castillo,1
+Ken Russell,9
+Kevin Macdonald,1
+Kevin Spacey,1
+Kimberly Peirce,1
+Larry Ferguson,1
+Larry Peerce,2
+Larysa Kondracki,1
+Laurence Olivier,2
+Lawrence Kasdan,1
+Lee Daniels,1
+Leon Ichaso,2
+Leslie H. Martinson,1
+Leslie Howard,1
+Lewis Gilbert,2
+Lewis Seiler,1
+Lisa Barros D'Sa,1
+Lloyd Bacon,1
+Louis Malle,4
+Luc Besson,1
+Luis Valdez,1
+Malcolm Leo,1
+Marc Abraham,1
+Marc Forster,2
+Marcos Zurinaga,1
+Marek Kanievska,1
+Mario Van Peebles,1
+Mark Robson,1
+Marshall Herskovitz,1
+Martin Ritt,1
+Martin Scorsese,6
+Marvin J. Chomsky,1
+Mary Harron,2
+Mary McGuckian,1
+Matthew Bright,1
+Matthew Broderick,1
+Mat Whitecross,1
+Max Nosseck,1
+Mel Gibson,1
+Melville Shavelson,2
+Melvin Frank,1
+Menno Meyjes,4
+Mervyn LeRoy,14
+Michael Apted,4
+Michael Campus,1
+Michael Caton-Jones,2
+Michael Cuesta,1
+Michael Curtiz,11
+Michael Hoffman,2
+Michael Mann,3
+Michael O. Sajbel,1
+Michael Schultz,1
+Michael Tollin,4
+Michael Winterbottom,6
+Mick Davis,1
+Mick Jackson,1
+Mike Barker,4
+Mike Jittlov,1
+Mike Leigh,5
+Mike Newell,2
+Mike Nichols,2
+Milos Forman,7
+Mira Nair,1
+Mitch Davis,1
+Monty Lapica,1
+Morten Tyldum,1
+Moustapha Akkad,2
+Myles Berkowitz,1
+Nathan Frankowski,1
+Neil Jordan,1
+Newt Arnold,1
+Nicholas Hytner,1
+Nicholas Ray,2
+Nicholas Sgarro,1
+Nick Cassavetes,1
+Nick Moran,1
+Nicolas Winding Refn,1
+Niels Mueller,1
+Nikolai MÌÎÌãÌ´_llerschÌÎÌãÌ´å_n,1
+Nora Ephron,4
+Norman Jewison,1
+Norman Taurog,6
+Oliver Hirschbiegel,1
+Oliver Stone,6
+Olivier Dahan,2
+Oren Kaplan,1
+Otto Preminger,2
+Pat Murphy,4
+Patty Jenkins,1
+Paul Goldman,1
+Paul Greengrass,1
+Paul Morrison,1
+Paul Schrader,3
+Paul Weiland,1
+Penny Marshall,2
+Peter Berg,1
+Peter Bogdanovich,1
+Peter Brook,1
+Peter Filardi,1
+Peter Glenville,4
+Peter Greenaway,2
+Peter Medak,4
+Peter Webber,1
+Philip Kaufman,10
+Philippe Mora,1
+Philip Saville,1
+Phil Karlson,1
+Phillip Borsos,1
+Phillip Noyce,1
+Phyllida Lloyd,1
+Preston Sturges,1
+Ralph Fiennes,1
+Raoul Ruiz,1
+Raoul Walsh,4
+Ricardo Trogi,1
+Richard Attenborough,13
+Richard Eyre,1
+Richard Fleischer,8
+Richard Glatzer,1
+Richard LaGravenese,1
+Richard Loncraine,1
+Richard Pryor,1
+Richard Raymond,1
+Richard Rich,1
+Richard Thorpe,6
+Richard Whorf,1
+Richard Wilson,1
+Rick Bieber,1
+Ridley Scott,2
+Rob Cohen,1
+Rob Epstein,2
+Robert Altman,4
+Robert Boris,4
+Robert Greenwald,1
+Robert Guenette,1
+Robert Lieberman,1
+Robert Luketic,1
+Robert Montgomery,1
+Robert Mulligan,1
+Robert M. Young,1
+Roberto Faenza,4
+Robert Rossen,1
+Robert Siodmak,1
+Robert Towne,1
+Robert Townsend,1
+Robert Wise,4
+Robert Young,1
+Robert Z. Leonard,1
+Rob Moretti,1
+Rodger Grossman,1
+Roger Christian,1
+Roger Corman,5
+Roger Donaldson,1
+Roger Michell,4
+Roger Spottiswoode,1
+Roland JoffÌÎå©,1
+Roland JoffÌÎÌãÌ´å©,4
+Roman Polanski,1
+Ron Howard,6
+Ron Shelton,2
+Ron Underwood,4
+Rouben Mamoulian,1
+Rowdy Herrington,1
+Rowland V. Lee,2
+Roy Del Ruth,1
+Russell Mulcahy,1
+Ryan Coogler,1
+Ryan Perez,1
+Sacha Gervasi,4
+Sam Taylor-Johnson,1
+Sam Wood,2
+Saul Dibb,1
+Scott Kalvert,1
+Scott Walker,4
+Sean McNamara,1
+Sean Penn,1
+Shari Springer Berman,1
+Shekhar Kapur,3
+Sherry Hormann,1
+Sidney Franklin,4
+Sidney J. Furie,2
+Sidney Lumet,2
+Simon Curtis,1
+Sofia Coppola,1
+Spike Lee,1
+Stanley Kubrick,1
+Stephen Frears,6
+Stephen Hopkins,1
+Stephen Kay,1
+Stephen Woolley,1
+Steve Carver,1
+Steve James,1
+Steve McQueen,2
+Steven Sawalich,1
+Steven Shainberg,1
+Steven Silver,16
+Steven Soderbergh,3
+Steven Spielberg,3
+Steven Zaillian,1
+Steve Rash,1
+Sydney Pollack,1
+Tate Taylor,1
+Taylor Hackford,2
+Ted Demme,1
+Terence Davies,1
+Terrence Malick,1
+Thad T. Smith,1
+Tim Burton,2
+Tim Metcalfe,1
+Todd Haynes,1
+Tom Gries,1
+Tom Hooper,2
+Tom Kalin,4
+Tommy O'Haver,4
+Tom Shadyac,1
+Toniko Melo,1
+Tony Bill,1
+Tony Goldwyn,1
+Tony Scott,1
+Trevor Nunn,1
+Trevor White,1
+Trey Parker,1
+Valentine Davies,1
+Victor Fleming,1
+Vincente Minnelli,1
+Vincent J. Donehue,1
+Vincent Paronnaud,1
+Walter Hill,1
+Walter Lang,2
+Walter Salles,1
+Warren Beatty,1
+Werner Herzog,1
+William A. Wellman,2
+William Dieterle,4
+William Wyler,1
+W.S. Van Dyke,1
+Xavier Koller,1
