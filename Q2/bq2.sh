@@ -1,5 +1,5 @@
 ./get_data.sh
-#./clean.sh
+./clean.sh
 awk -F ',' '{print $13 "," $5}' biopics.csv > tmp
 grep -e "Male,[0-9]" tmp > male
 grep -e "Female,[0-9]" tmp > female
