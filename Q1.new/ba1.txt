@@ -1,20 +1,20 @@
 Adam Green,1
 Adrian Shergold,1
-Agnieszka Holland,5
+Agnieszka Holland,3
 A.J. Edwards,1
 Alan Parker,2
 Alan Rudolph,1
 Alexander Korda,2
 Alexandre Moors,1
-Alex Cox,5
+Alex Cox,3
 Alfred E. Green,3
-Alfred Hitchcock,4
+Alfred Hitchcock,2
 Alfred L. Werker,1
 Allen Coulter,1
-Anand Tucker,5
+Anand Tucker,3
 Anatole Litvak,1
 Andrew Bergman,1
-Andrew Dominik,4
+Andrew Dominik,2
 Andrew V. McLaglen,1
 Andrzej Wajda,1
 Andy Goddard,1
@@ -27,12 +27,12 @@ Archie Mayo,1
 Ariel Vromen,1
 Arnold Laven,1
 Arthur Hiller,1
-Arthur Penn,9
+Arthur Penn,5
 Art Linson,1
-Atom Egoyan,9
+Atom Egoyan,3
 Ava DuVernay,1
 A.W. Vidmer,1
-Barbet Schroeder,4
+Barbet Schroeder,2
 Barry Levinson,2
 Ben Lewin,1
 Bennett Miller,3
@@ -41,25 +41,25 @@ Bernard Rose,2
 Betty Thomas,1
 Bill Condon,3
 Bill Douglas,1
-Bille August,5
+Bille August,3
 Bill Pohlad,1
 Billy Ray,1
 Billy Wilder,1
 Blair Hayes,1
 Boaz Yakin,1
-Bob Balaban,4
+Bob Balaban,2
 Bob Fosse,2
-Brenda Chapman,4
+Brenda Chapman,2
 Brian Gibson,1
-Brian Gilbert,5
+Brian Gilbert,3
 Brian Helgeland,1
 Bronwen Hughes,1
 Bruce Beresford,1
 Burt Balaban,1
 Buzz Kulik,1
 Byron Haskin,1
-Carl Schultz,4
-Catherine Hardwicke,13
+Carl Schultz,2
+Catherine Hardwicke,5
 Caveh Zahedi,1
 Cecil B. DeMille,4
 Charles BinamÌÎÌãÌ´å©,1
@@ -68,31 +68,31 @@ Charles Jarrott,2
 Charles S. Dutton,1
 Charles Vidor,3
 Charles Walters,1
-Chris Kentis,4
+Chris Kentis,2
 Chris Noonan,1
 Christian Duguay,1
-Christine Jeffs,4
-Christopher Hampton,4
+Christine Jeffs,2
+Christopher Hampton,2
 Christopher Roth,1
 Christopher Spencer,1
 Chuck Parello,1
 Clarence Brown,1
-Clint Eastwood,23
+Clint Eastwood,9
 Craig Gillespie,1
-Curtis Bernhardt,11
+Curtis Bernhardt,5
 Daniel Mann,1
 Daniel Roby,1
-Dan Ireland,4
+Dan Ireland,2
 Danny Boyle,1
 Danny DeVito,1
-Darnell Martin,9
+Darnell Martin,3
 Darrell Roodt,1
 David Anspaugh,1
-David Cronenberg,9
+David Cronenberg,3
 David Fincher,1
 David Frankel,1
 David Green,1
-David Hugh Jones,4
+David Hugh Jones,2
 David Jacobson,1
 David Lean,1
 David Lynch,2
@@ -108,12 +108,12 @@ Derek Jarman,3
 Derek W. Hayes,1
 Dick Powell,1
 Diego Luna,1
-director,0
+director,1
 D.M.W. Greer,1
 Dominic Murphy,1
 Don Murray,1
 Don Sharp,1
-Don Siegel,9
+Don Siegel,3
 Douglas McGrath,1
 Douglas Sirk,1
 Doug Liman,1
@@ -130,18 +130,18 @@ Ericson Core,1
 Eric Till,2
 Federico Fellini,1
 Fenton Bailey,1
-Floria Sigismondi,4
+Floria Sigismondi,2
 Francesco Rosi,1
 Francis Ford Coppola,1
 Franco Zeffirelli,2
 FranÌÎå_ois Girard,1
 Frank C. SchrÌÎå_der,1
-Franklin J. Schaffner,6
+Franklin J. Schaffner,4
 Frank Perry,1
 Fred Durst,1
 Fred Zinnemann,1
 Gabriele Muccino,1
-Gabriel Pascal,4
+Gabriel Pascal,2
 Gary Fleder,1
 Gavin Millar,1
 Gavin O'Connor,1
@@ -151,7 +151,7 @@ George Clooney,1
 George Cukor,1
 George Hickenlooper,2
 George Marshall,2
-George Roy Hill,4
+George Roy Hill,2
 George Sidney,3
 George Stevens,3
 George Tillman Jr.,2
@@ -166,16 +166,16 @@ Hal Ashby,1
 Hans-JÌÎ_rgen Syberberg,1
 Harry Bromley Davenport,1
 Harry Thomason,1
-H.C. Potter,4
+H.C. Potter,2
 Henrique Goldman,1
 Henry Hathaway,2
 Henry King,4
-Henry Koster,7
-Henry Levin,2
-Henry Levin George Pal,2
+Henry Koster,5
+Henry Levin,1
+Henry Levin George Pal,1
 Howard Hawks,1
 Hugh Hudson,1
-Iain Softley,4
+Iain Softley,2
 Irving Cummings,1
 Irving Rapper,3
 Irwin Winkler,1
@@ -186,12 +186,12 @@ James Franco,1
 James Gartner,1
 James Ivory,2
 James Kent,1
-James Lapine,4
+James Lapine,2
 James Mangold,2
 James Marsh,1
 Jamil Dehlavi,1
 Jane Anderson,1
-Jane Campion,5
+Jane Campion,3
 Jean-FranÌÎå_ois Richet,2
 Jean-Jacques Annaud,2
 Jean-Marc VallÌÎå©e,2
@@ -204,7 +204,7 @@ Jim Sheridan,3
 Joe Johnston,1
 Joel Schumacher,1
 Joe Menendez,1
-Joe Wright,4
+Joe Wright,2
 John Boorman,1
 John Boulting,1
 John Cromwell,2
@@ -217,7 +217,7 @@ John Glen,1
 John Huston,2
 John Krish Peter Sykes,1
 John Krokidas,1
-John Lee Hancock,5
+John Lee Hancock,3
 John Madden,1
 John Maybury,2
 John Milius,1
@@ -242,16 +242,16 @@ Julian Jarrold,1
 Julian Schnabel,3
 Julie Delpy,1
 Julien Duvivier,1
-Julien Temple,4
+Julien Temple,2
 Julie Taymor,1
 Juraj Jakubisko,1
-Justin Chadwick,6
+Justin Chadwick,4
 Karel Reisz,2
 Kasi Lemmons,1
 Ken Hughes,2
 Kenneth Branagh,1
 Kenneth Castillo,1
-Ken Russell,9
+Ken Russell,7
 Kevin Macdonald,1
 Kevin Spacey,1
 Kimberly Peirce,1
@@ -268,7 +268,7 @@ Lewis Gilbert,2
 Lewis Seiler,1
 Lisa Barros D'Sa,1
 Lloyd Bacon,1
-Louis Malle,4
+Louis Malle,2
 Luc Besson,1
 Luis Valdez,1
 Malcolm Leo,1
@@ -291,27 +291,27 @@ Max Nosseck,1
 Mel Gibson,1
 Melville Shavelson,2
 Melvin Frank,1
-Menno Meyjes,4
-Mervyn LeRoy,14
+Menno Meyjes,2
+Mervyn LeRoy,8
 Michael Apted,4
 Michael Campus,1
 Michael Caton-Jones,2
 Michael Cuesta,1
-Michael Curtiz,11
+Michael Curtiz,9
 Michael Hoffman,2
 Michael Mann,3
 Michael O. Sajbel,1
 Michael Schultz,1
-Michael Tollin,4
-Michael Winterbottom,6
+Michael Tollin,2
+Michael Winterbottom,4
 Mick Davis,1
 Mick Jackson,1
-Mike Barker,4
+Mike Barker,2
 Mike Jittlov,1
-Mike Leigh,5
+Mike Leigh,3
 Mike Newell,2
 Mike Nichols,2
-Milos Forman,7
+Milos Forman,5
 Mira Nair,1
 Mitch Davis,1
 Monty Lapica,1
@@ -329,15 +329,15 @@ Nick Moran,1
 Nicolas Winding Refn,1
 Niels Mueller,1
 Nikolai MÌÎÌãÌ´_llerschÌÎÌãÌ´å_n,1
-Nora Ephron,4
+Nora Ephron,2
 Norman Jewison,1
-Norman Taurog,6
+Norman Taurog,4
 Oliver Hirschbiegel,1
 Oliver Stone,6
 Olivier Dahan,2
 Oren Kaplan,1
 Otto Preminger,2
-Pat Murphy,4
+Pat Murphy,2
 Patty Jenkins,1
 Paul Goldman,1
 Paul Greengrass,1
@@ -349,11 +349,11 @@ Peter Berg,1
 Peter Bogdanovich,1
 Peter Brook,1
 Peter Filardi,1
-Peter Glenville,4
+Peter Glenville,2
 Peter Greenaway,2
-Peter Medak,4
+Peter Medak,2
 Peter Webber,1
-Philip Kaufman,10
+Philip Kaufman,4
 Philippe Mora,1
 Philip Saville,1
 Phil Karlson,1
@@ -365,24 +365,24 @@ Ralph Fiennes,1
 Raoul Ruiz,1
 Raoul Walsh,4
 Ricardo Trogi,1
-Richard Attenborough,13
+Richard Attenborough,9
 Richard Eyre,1
-Richard Fleischer,8
+Richard Fleischer,6
 Richard Glatzer,1
 Richard LaGravenese,1
 Richard Loncraine,1
 Richard Pryor,1
 Richard Raymond,1
 Richard Rich,1
-Richard Thorpe,6
+Richard Thorpe,4
 Richard Whorf,1
 Richard Wilson,1
 Rick Bieber,1
 Ridley Scott,2
 Rob Cohen,1
 Rob Epstein,2
-Robert Altman,4
-Robert Boris,4
+Robert Altman,2
+Robert Boris,2
 Robert Greenwald,1
 Robert Guenette,1
 Robert Lieberman,1
@@ -390,7 +390,7 @@ Robert Luketic,1
 Robert Montgomery,1
 Robert Mulligan,1
 Robert M. Young,1
-Roberto Faenza,4
+Roberto Faenza,2
 Robert Rossen,1
 Robert Siodmak,1
 Robert Towne,1
@@ -401,16 +401,16 @@ Robert Z. Leonard,1
 Rob Moretti,1
 Rodger Grossman,1
 Roger Christian,1
-Roger Corman,5
+Roger Corman,3
 Roger Donaldson,1
-Roger Michell,4
+Roger Michell,2
 Roger Spottiswoode,1
 Roland JoffÌÎå©,1
-Roland JoffÌÎÌãÌ´å©,4
+Roland JoffÌÎÌãÌ´å©,2
 Roman Polanski,1
-Ron Howard,6
+Ron Howard,4
 Ron Shelton,2
-Ron Underwood,4
+Ron Underwood,2
 Rouben Mamoulian,1
 Rowdy Herrington,1
 Rowland V. Lee,2
@@ -418,25 +418,25 @@ Roy Del Ruth,1
 Russell Mulcahy,1
 Ryan Coogler,1
 Ryan Perez,1
-Sacha Gervasi,4
+Sacha Gervasi,2
 Sam Taylor-Johnson,1
 Sam Wood,2
 Saul Dibb,1
 Scott Kalvert,1
-Scott Walker,4
+Scott Walker,2
 Sean McNamara,1
 Sean Penn,1
 Shari Springer Berman,1
 Shekhar Kapur,3
 Sherry Hormann,1
-Sidney Franklin,4
+Sidney Franklin,2
 Sidney J. Furie,2
 Sidney Lumet,2
 Simon Curtis,1
 Sofia Coppola,1
 Spike Lee,1
 Stanley Kubrick,1
-Stephen Frears,6
+Stephen Frears,4
 Stephen Hopkins,1
 Stephen Kay,1
 Stephen Woolley,1
@@ -445,7 +445,7 @@ Steve James,1
 Steve McQueen,2
 Steven Sawalich,1
 Steven Shainberg,1
-Steven Silver,16
+Steven Silver,4
 Steven Soderbergh,3
 Steven Spielberg,3
 Steven Zaillian,1
@@ -462,8 +462,8 @@ Tim Metcalfe,1
 Todd Haynes,1
 Tom Gries,1
 Tom Hooper,2
-Tom Kalin,4
-Tommy O'Haver,4
+Tom Kalin,2
+Tommy O'Haver,2
 Tom Shadyac,1
 Toniko Melo,1
 Tony Bill,1
